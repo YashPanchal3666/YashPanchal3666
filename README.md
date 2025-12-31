@@ -4,8 +4,10 @@ I’m **Yash**, a Computer Science student with a strong interest in software de
 Primarily working with Python, Java, and Web Technologies, and gaining practical experience through projects and coursework. A motivated learner focused on writing clean code, understanding core system concepts, and continuously improving technical skills with an interest in real-world software systems.
 
 ---
+
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
+---
 ### 🛠️ Technologies & Skills
 
 #### 💻 Programming Languages
