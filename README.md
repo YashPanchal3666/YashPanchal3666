@@ -41,14 +41,6 @@ Primarily working with Python, Java, and Web Technologies, and gaining practical
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YashPanchal3666&show_icons=true&theme=dark&hide_border=true" alt="Yash's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPanchal3666&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)](https://YOUR_WEBSITE.com)
