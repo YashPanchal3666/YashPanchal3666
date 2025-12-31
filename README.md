@@ -42,8 +42,8 @@ Primarily working with Python, Java, and Web Technologies, and gaining practical
 
 ### 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Yash's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=YashPanchal3666&show_icons=true&theme=dark&hide_border=true" alt="Yash's GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPanchal3666&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
