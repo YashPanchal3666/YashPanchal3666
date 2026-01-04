@@ -50,6 +50,21 @@ Primarily working with Python, Java, and Web Technologies, and gaining practical
 
 ---
 
+#### 🤖 AI Tools
+![Grok](https://img.shields.io/badge/Grok-black?style=flat&logo=grok&logoColor=00D4AA)
+![Gemini](https://img.shields.io/badge/Gemini-black?style=flat&logo=google-gemini&logoColor=4285F4)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=flat&logo=openai&logoColor=10A37F)
+![Gamma](https://img.shields.io/badge/Gamma-black?style=flat&logo=gamma&logoColor=FF6B35)
+![Canva](https://img.shields.io/badge/Canva-black?style=flat&logo=canva&logoColor=00C4CC)
+![Grammarly](https://img.shields.io/badge/Grammarly-black?style=flat&logo=grammarly&logoColor=77DD77)
+![Adobe Express](https://img.shields.io/badge/Adobe_Express-black?style=flat&logo=adobe-express&logoColor=FF0000)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-black?style=flat&logo=github&logoColor=181717)
+![GitMind](https://img.shields.io/badge/GitMind-black?style=flat&logo=gitmind&logoColor=4CAF50)
+![Copilot](https://img.shields.io/badge/Copilot-black?style=flat&logo=github-copilot&logoColor=6E40C9)
+![Pictory](https://img.shields.io/badge/Pictory-black?style=flat&logo=pictory&logoColor=FF4081)
+
+---
+
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)](https://YOUR_WEBSITE.com)
