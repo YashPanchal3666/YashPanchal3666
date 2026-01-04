@@ -43,6 +43,11 @@ Primarily working with Python, Java, and Web Technologies, and gaining practical
 
 ---
 
+🎥 Editing Software
+![CapCut](https://img.shields.io/badge/CapCut-black?style=flat&logo=capcut&logoColor=00D4AA)
+![After Effects](https://img.shields.io/badge/After_Effects-black?style=flat&logo=adobe-after-effects&logoColor=9999FF)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-black?style=flat&logo=adobe-premiere-pro&logoColor=FF0000)
+
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)](https://YOUR_WEBSITE.com)
