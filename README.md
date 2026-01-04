@@ -21,7 +21,7 @@ Primarily working with Python, Java, and Web Technologies, and gaining practical
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+<!--![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)-->
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)
 
@@ -32,14 +32,14 @@ Primarily working with Python, Java, and Web Technologies, and gaining practical
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat&logo=amazon-dynamodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)
+<!--![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat&logo=amazon-dynamodb)-->
+<!--![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)-->
 
 #### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-black?style=flat&logo=google-cloud)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-black?style=flat&logo=terraform)
+<!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)-->
+<!--![Terraform](https://img.shields.io/badge/Terraform-black?style=flat&logo=terraform)-->
 
 ---
 
