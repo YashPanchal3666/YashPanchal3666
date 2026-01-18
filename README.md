@@ -12,18 +12,14 @@ Primarily working with Python, Java, and Web Technologies, and gaining practical
 <h3 align="left">My GitHub Contributions Summary</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashPanchal3666&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashPanchal3666&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashPanchal3666&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" height="165"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YashPanchal3666&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" height="165"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPanchal3666&layout=compact&bg_color=151515&title_color=fb4362&text_color=9e9e9e&hide_border=true" height="165"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashPanchal3666&color=fb4362&style=flat-square"/>
