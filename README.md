@@ -17,9 +17,12 @@ Primarily working with Python, Java, and Web Technologies, and gaining practical
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YashPanchal3666&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" height="165"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPanchal3666&layout=compact&bg_color=151515&title_color=fb4362&text_color=9e9e9e&hide_border=true" height="165"/>
-
-  <img src="https://komarev.com/ghpvc/?username=YashPanchal3666&color=fb4362&style=flat-square" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashPanchal3666&color=fb4362&style=flat-square"/>
+</p>
+
 
 
 
