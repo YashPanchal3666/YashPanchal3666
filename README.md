@@ -1,7 +1,44 @@
 # Hi there! <img src="https://raw.githubusercontent.com/igorantun/igorantun/main/wave.gif" width="30">
 
-I’m **Yash**, a Computer Science student with a strong interest in software development. 
-Primarily working with Python, Java, and Web Technologies, and gaining practical experience through projects and coursework. A motivated learner focused on writing clean code, understanding core system concepts, and continuously improving technical skills with an interest in real-world software systems.
+# 📡 System.init("Yash") — Aspiring Security Researcher & Dev 👋
+
+> "Clean code is the first line of defense."
+
+### 🔐 Cybersecurity & Software Development
+I am a CS student focused on building secure real-world systems. I bridge the gap between robust software engineering (Python, Java, Web) and offensive/defensive security concepts.
+
+- 🛡️ **Current Focus:** [e.g., Penetration Testing / Web App Security]
+- 🧪 **Active Research:** Developing a [Project Name, e.g., Vulnerability Scanner]
+- ⚡ **Clean Code:** Prioritizing system concepts and maintainable architecture.
+- 💬 **Ask me about:** Java, Python, or CTF challenges.
+
+---
+
+### 🛠️ Arsenal (Tech Stack)
+![Python](https://img.shields.io)
+![Java](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![Kali Linux](https://img.shields.io)
+![Metasploit](https://img.shields.io)
+
+---
+
+### 📊 Terminal Analytics (Dynamic Stats)
+| 💻 System Activity | 🛠️ Language Breakdown |
+| :--- | :--- |
+| ![Yash's Stats](https://github-readme-stats.vercel.app) | ![Top Langs](https://github-readme-stats.vercel.app) |
+
+---
+
+### 🎯 Security Contribution Snake
+![Snake Animation](https://github.com)
+
+---
+
+### 🤝 Secure Connection
+[![LinkedIn](https://img.shields.io)](https://linkedin.com)
+[![TryHackMe](https://img.shields.io)](https://tryhackme.com)
+
 
 ---
 
