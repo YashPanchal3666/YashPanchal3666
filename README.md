@@ -2,7 +2,7 @@
 
 > "Clean code is the first line of defense."
 
-### 🔐 Cybersecurity & Software Development
+<!--### 🔐 Cybersecurity & Software Development-->
 I am a CS student focused on building secure real-world systems. I bridge the gap between robust software engineering (Python, Java, Web) and offensive/defensive security concepts.
 
 - 🛡️ **Current Focus:** [Web App Security]
