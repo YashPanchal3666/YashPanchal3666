@@ -5,12 +5,11 @@
 ### 🔐 Cybersecurity & Software Development
 I am a CS student focused on building secure real-world systems. I bridge the gap between robust software engineering (Python, Java, Web) and offensive/defensive security concepts.
 
-- 🛡️ **Current Focus:** [e.g., Penetration Testing / Web App Security]
-- 🧪 **Active Research:** Developing a [Project Name, e.g., Vulnerability Scanner]
+- 🛡️ **Current Focus:** [Web App Security]
+- 🧪 **Active Research:** Developing a [AI Based Projects]
 - ⚡ **Clean Code:** Prioritizing system concepts and maintainable architecture.
 - 💬 **Ask me about:** Java, Python, or CTF challenges.
 
----
 
 
 
