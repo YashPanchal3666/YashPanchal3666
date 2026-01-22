@@ -1,7 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/igorantun/igorantun/main/wave.gif" width="30">
 
-# 📡 System.init("Yash") — Aspiring Security Researcher & Dev 👋
-
 > "Clean code is the first line of defense."
 
 ### 🔐 Cybersecurity & Software Development
@@ -14,30 +12,6 @@ I am a CS student focused on building secure real-world systems. I bridge the ga
 
 ---
 
-### 🛠️ Arsenal (Tech Stack)
-![Python](https://img.shields.io)
-![Java](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![Kali Linux](https://img.shields.io)
-![Metasploit](https://img.shields.io)
-
----
-
-### 📊 Terminal Analytics (Dynamic Stats)
-| 💻 System Activity | 🛠️ Language Breakdown |
-| :--- | :--- |
-| ![Yash's Stats](https://github-readme-stats.vercel.app) | ![Top Langs](https://github-readme-stats.vercel.app) |
-
----
-
-### 🎯 Security Contribution Snake
-![Snake Animation](https://github.com)
-
----
-
-### 🤝 Secure Connection
-[![LinkedIn](https://img.shields.io)](https://linkedin.com)
-[![TryHackMe](https://img.shields.io)](https://tryhackme.com)
 
 
 ---
