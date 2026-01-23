@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/igorantun/igorantun/main/wave.gif" width="30">
 
-> "Clean code is the first line of defense." >
+> "Clean code is the first line of defense."
 
 <!--### 🔐 Cybersecurity & Software Development-->
 I am a CS student focused on building secure real-world systems. I bridge the gap between robust software engineering (Python, Java, Web) and offensive/defensive security concepts.
