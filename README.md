@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Yash%20Panchal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-  💻 Full Stack Software Developer • Building TaskTribe & ViseVerse
-</h3>
+<p align="center">
+  🚀 Full Stack Software Engineer | Web Application Developer | AI Solutions Engineer
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;ASP.NET%20%7C%20JavaScript%20%7C%20Next.js;Building%20real-world%20products%2C%20not%20just%20demos;Always%20learning%20and%20shipping%20fast" />
