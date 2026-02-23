@@ -1,14 +1,14 @@
 <!-- Neon Cyber Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=160&section=header&text=Yash%20Panchal&fontSize=42&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Yash%20Panchal&fontSize=42&fontColor=auto&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  💻 Full Stack Developer • Building TaskTribe & ViseVerse
+  💻 Full Stack Software Developer • Building TaskTribe & ViseVerse
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;ASP.NET+Stack%20%7C%20TypeScript%20%7C%20Next.js;Building%20real-world%20products%2C%20not%20just%20demos;Always%20learning%20and%20shipping%20fast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;ASP.NET%20%7C%20TypeScript%20%7C%20Next.js;Building%20real-world%20products%2C%20not%20just%20demos;Always%20learning%20and%20shipping%20fast" />
 </p>
 
 ---
