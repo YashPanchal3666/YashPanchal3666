@@ -1,27 +1,7 @@
 <!-- Neon Cyber Header -->
 <p align="center">
-  <img id="capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Yash%20Panchal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<script>
-  const colors = [
-    "0f2027,203a43,2c5364",   // Professional Blue
-    "1f4037,99f2c8",          // Teal Gradient
-    "141e30,243b55",          // Dark Blue
-    "232526,414345",          // Graphite
-    "000000,434343",          // Elegant Black
-    "134e5e,71b280"           // Soft Green
-  ];
-
-  function changeBanner() {
-    const randomColor = colors[Math.floor(Math.random() * colors.length)];
-    document.getElementById("capsule").src =
-      `https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=${randomColor}&height=160&section=header&text=Yash%20Panchal&fontSize=42&fontColor=ffffff&animation=fadeIn`;
-  }
-
-  changeBanner();
-  setInterval(changeBanner, 4000); // Change every 4 seconds
-</script>
 
 <h3 align="center">
   💻 Full Stack Software Developer • Building TaskTribe & ViseVerse
