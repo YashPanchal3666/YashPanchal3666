@@ -108,4 +108,4 @@ I am a CS student focused on building secure real-world systems. I bridge the ga
 ---
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)]([https://YOUR_WEBSITE.com](https://portfoliosyashpanchal.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)]([https://portfoliosyashpanchal.netlify.app/])
