@@ -1,14 +1,7 @@
 <!-- Neon Cyber Header -->
-<!--<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Yash%20Panchal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>-->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Arham - AI & 3D Interactive Designer" src="dark.svg" width="100%">
-  </picture>
-</div>
+</p>
 
 <p align="center">
   🚀 Full Stack Software Engineer | Web Application Developer | AI Solutions Engineer
