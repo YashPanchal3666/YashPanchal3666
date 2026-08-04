@@ -35,7 +35,7 @@ I am a CS student focused on building secure real-world systems. I bridge the ga
 
 <h3 align="left">My GitHub Contributions Summary</h3>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashPanchal3666&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" height="165"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YashPanchal3666&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" height="165"/>
@@ -45,22 +45,7 @@ I am a CS student focused on building secure real-world systems. I bridge the ga
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashPanchal3666&color=fb4362&style=flat-square"/>
-</p>-->
-
-<div align="center">
-
-## 🌐 GitHub Activity
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YashPanchal3666-ops&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity"
-  alt="GitHub Activity Graph"
-  width="100%"
-/>
-
-</div>
-
-
-
+</p>
 
 ### 🛠️ Technologies & Skills
 
